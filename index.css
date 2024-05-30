@@ -1,0 +1,64 @@
+body {
+    background-image: url("chickens.png");
+    background-size: cover;
+    text-align: center;
+}
+
+.container {
+    background: white;
+    max-width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    border: 2px solid black;
+    border-radius: 2px;
+    width: 300px;
+}
+
+h1 {
+    font-family: "Poetsen One", sans-serif;
+    font-size: 30px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+h2 {
+    font-family: "Oxygen", sans-serif;
+    font-size: 70px;
+    margin-top: 0;
+}
+
+p {
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   padding: 10px;
+}
+
+button {
+    border: 2px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    height: 50px;
+    width: 150px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+    font-weight: bold;
+}
+
+#increment-btn {
+    background: darkred;
+}
+
+#save-btn {
+    background: #1C7947;
+}
+
+#save-el {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 10px;
+    margin-top: 0px;
+}
+
+
